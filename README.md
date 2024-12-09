@@ -1,7 +1,3 @@
-Here’s a README file you can directly paste into your GitHub repository, tailored for a Jupyter notebook-based project:
-
----
-
 # Next Word Prediction with LSTM (Jupyter Notebook)
 
 This project is a deep learning model for predicting the next word in a text sequence. Built with TensorFlow and Keras in a Jupyter notebook, the model uses an LSTM neural network trained on an FAQ dataset to provide real-time word suggestions based on input sequences.
